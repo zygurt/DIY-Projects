@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.094488189"
+   height="1052.36220472"
+   id="svg11111"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Short Side.svg">
+  <metadata
+     id="metadata11182">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview11180"
+     showgrid="false"
+     inkscape:zoom="2.5371828"
+     inkscape:cx="168.80643"
+     inkscape:cy="207.79549"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g11130" />
+  <desc
+     id="desc11113">C:\Users\Tim\Documents\Arduino\RGB Matrix\Solidworks model recessed\DXF\Short Side.DXF - scale = 1.000000, origin = (0.000000, 0.000000), auto = False</desc>
+  <defs
+     id="defs11115">
+    <marker
+       refY="0.0"
+       refX="0.0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         id="path11118" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path11121" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path11123" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path11125" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:label="0"
+     inkscape:groupmode="layer"
+     id="g11130">
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 0.000000,963.779528 17.716535,963.779528"
+       id="path11132" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 17.716535,963.779528 17.716535,822.047244"
+       id="path11134" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 17.716535,822.047244 0.000000,822.047244"
+       id="path11136" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 379.133858,822.047244 361.417323,822.047244"
+       id="path11138" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 361.417323,822.047244 361.417323,963.779528"
+       id="path11140" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 361.417323,963.779528 379.133858,963.779528"
+       id="path11142" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 278.149606,1052.362205 278.149606,1034.645669"
+       id="path11144" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 278.149606,1034.645669 100.984252,1034.645669"
+       id="path11146" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 100.984252,1034.645669 100.984252,1052.362205"
+       id="path11148" />
+    <path
+       style="stroke:#000000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 370.275591,752.952756 370.275591,742.322835"
+       id="path11150" />
+    <path
+       style="stroke:#000000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 370.275591,742.322835 8.858268,742.322835"
+       id="path11152" />
+    <path
+       style="stroke:#000000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 8.858268,742.322835 8.858268,752.952756"
+       id="path11154" />
+    <path
+       style="stroke:#000000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 8.858268,752.952756 370.275591,752.952756"
+       id="path11156" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 379.133858,733.464567 0.000000,733.464567"
+       id="path11158" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 379.133858,822.047244 379.133858,733.464567"
+       id="path11160" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 278.149606,1052.362205 379.133858,1052.362205"
+       id="path11162" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 0.000000,963.779528 0.000000,1052.362205"
+       id="path11164" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 0.000000,733.464567 0.000000,822.047244"
+       id="path11166" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 379.133858,1052.362205 379.133858,963.779528"
+       id="path11168" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 0.000000,1052.362205 100.984252,1052.362205"
+       id="path11170" />
+    <rect
+       style="opacity:1;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11730"
+       width="361.41733"
+       height="10.629921"
+       x="8.8719578"
+       y="742.29413" />
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+Power switch size and shape
+USB mount design change to 1 hole
+USB mount increase dimensions
+Back design change to 1 hole
+Back Increase USB hole dimensions
+Adjust the size of the diffuser, for 1mm channel
+
+Plate width needs to decrease
+
+
+Make a 4mm version for bunnings marine ply

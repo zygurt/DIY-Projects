@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.094488189"
+   height="1052.36220472"
+   id="svg4255"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Plate.svg">
+  <metadata
+     id="metadata4334">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     id="namedview4332"
+     showgrid="false"
+     inkscape:zoom="1.2685914"
+     inkscape:cx="525.44448"
+     inkscape:cy="245.32846"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4274" />
+  <desc
+     id="desc4257">C:\Users\Tim\Documents\Arduino\RGB Matrix\Solidworks model recessed\DXF\Plate.DXF - scale = 1.000000, origin = (0.000000, 0.000000), auto = False</desc>
+  <defs
+     id="defs4259">
+    <marker
+       refY="0.0"
+       refX="0.0"
+       style="overflow:visible"
+       id="DistanceX"
+       orient="auto">
+      <path
+         style="stroke:#000000; stroke-width:0.5"
+         d="M 3,-3 L -3,3 M 0,-5 L  0,5"
+         id="path4262" />
+    </marker>
+    <pattern
+       height="8"
+       width="8"
+       patternUnits="userSpaceOnUse"
+       y="0"
+       x="0"
+       id="Hatch">
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M8 4 l-4,4"
+         id="path4265" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M6 2 l-4,4"
+         id="path4267" />
+      <path
+         linecap="square"
+         stroke="#000000"
+         stroke-width="0.25"
+         d="M4 0 l-4,4"
+         id="path4269" />
+    </pattern>
+    <symbol
+       id="*Model_Space" />
+    <symbol
+       id="*Paper_Space" />
+    <symbol
+       id="*Paper_Space0" />
+  </defs>
+  <g
+     inkscape:label="0"
+     inkscape:groupmode="layer"
+     id="g4274">
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 52.086614,744.448819 A 6.023622,6.023622 -0.000000 1 0 40.039370,744.448819 6.023622,6.023622 -0.000000 1 0 52.086614,744.448819 z"
+       id="path4276" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 640.275591,744.448819 A 6.023622,6.023622 -0.000000 1 0 628.228346,744.448819 6.023622,6.023622 -0.000000 1 0 640.275591,744.448819 z"
+       id="path4278" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 640.275591,1020.118110 A 6.023622,6.023622 -0.000000 1 0 628.228346,1020.118110 6.023622,6.023622 -0.000000 1 0 640.275591,1020.118110 z"
+       id="path4280" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 52.086614,1020.118110 A 6.023622,6.023622 -0.000000 1 0 40.039370,1020.118110 6.023622,6.023622 -0.000000 1 0 52.086614,1020.118110 z"
+       id="path4282" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 302.952756,791.574803 A 6.023622,6.023622 -0.000000 1 0 290.905512,791.574803 6.023622,6.023622 -0.000000 1 0 302.952756,791.574803 z"
+       id="path4284" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 307.594488,962.362205 A 6.023622,6.023622 -0.000000 1 0 295.547244,962.362205 6.023622,6.023622 -0.000000 1 0 307.594488,962.362205 z"
+       id="path4286" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 122.952756,944.291339 A 6.023622,6.023622 -0.000000 1 0 110.905512,944.291339 6.023622,6.023622 -0.000000 1 0 122.952756,944.291339 z"
+       id="path4288" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 122.952756,845.433071 A 6.023622,6.023622 -0.000000 1 0 110.905512,845.433071 6.023622,6.023622 -0.000000 1 0 122.952756,845.433071 z"
+       id="path4290" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 96.732283,811.417323 96.732283,953.149606"
+       id="path4292" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 43.582677,811.417323 96.732283,811.417323"
+       id="path4294" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 43.582677,953.149606 43.582677,811.417323"
+       id="path4296" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 96.732283,953.149606 43.582677,953.149606"
+       id="path4298" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 435.826772,869.881890 435.826772,923.031496"
+       id="path4300" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 364.960630,869.881890 435.826772,869.881890"
+       id="path4302" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 364.960630,923.031496 364.960630,869.881890"
+       id="path4304" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 435.826772,923.031496 364.960630,923.031496"
+       id="path4306" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 583.582677,953.149606 583.582677,811.417323"
+       id="path4308" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 636.732283,953.149606 583.582677,953.149606"
+       id="path4310" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 636.732283,811.417323 636.732283,953.149606"
+       id="path4312" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 583.582677,811.417323 636.732283,811.417323"
+       id="path4314" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 680.314961,712.204724 0.000000,712.204724"
+       id="path4316" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 680.314961,1052.362205 680.314961,712.204724"
+       id="path4318" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 0.000000,1052.362205 680.314961,1052.362205"
+       id="path4320" />
+    <path
+       style="stroke:#ff0000;stroke-width:0.9;fill:none;stroke-linecap:round"
+       d="M 0.000000,712.204724 0.000000,1052.362205"
+       id="path4322" />
+  </g>
+</svg>
