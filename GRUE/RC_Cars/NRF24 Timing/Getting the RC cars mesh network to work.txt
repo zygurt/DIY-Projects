@@ -1,0 +1,74 @@
+RC car install Readme
+Install bcm2835 from http://www.airspayce.com/mikem/bcm2835/index.html
+cd bcm2835-1.xx
+./configure
+make
+sudo make check
+sudo make install
+
+Go to http://tmrh20.github.io/RF24Mesh/Setup-Config.html
+Download the 3 Software Requirements and unzip
+
+For installing using SPIDEV
+Install RF24 first by doing this:
+
+Make sure that spi device support is enabled and /dev/spidev<a>.<b> is present
+Install RF24, using SPIDEV
+./configure --driver=SPIDEV
+sudo make install -B
+
+Install Network stuff by
+cd ../RF24Network
+sudo make install
+
+Then install the NRF24 Mesh stuff by navigating to that folder and:
+cd ../RF24Mesh
+sudo make install
+
+cd examples_RPi
+make
+sudo ./RF24Mesh_Example_Master (This will check that it runs)
+
+
+Once that runs it's time to get our stuff working.
+Connect the nRF module to the Raspberry Pi using the pin assignments found
+at tmrh20.github.io/RF24/RPi.html
+
+Replace the RF24Mesh_Example_Master.cpp file with the one in the google drive.
+Copy across the audio files
+
+run make again to compile our car racing program.
+sudo ./RF24Mesh_Example_Master (To run our program)
+
+For the cars, the arduino source code is found on the google drive.
+The car number needs to be either 1 or 2.  The server receives these numbers and
+uses them for triggering which car is crossing the finish line.
+Modify the car number before uploading.
+
+
+For setting up the RC cars,
+Install Arduino if you don't already have it.
+sudo apt-get install arduino (For raspberry pi)
+Install the RF24, RF24Network and RF24Mesh libraries for arduino
+On a Raspberry pi, the easiest thing to do is to unzip the previous RF24 downloads into /home/pi/sketchbook/libraries
+and then restart arduino
+Use the ino file on google drive.
+This shouldn't need to be done, unless we upgrade the arduinos, or kill the current ones.
+
+
+Finally, there is a bash script which makes it easy to run everything.
+Currently called Elympics.sh it does the following:
+cd ~/RF24Mesh/examples_RPi
+echo "Time to Race"
+echo "The GRUE E-Olympics"
+sudo ./RF24Mesh_Example_Master
+
+
+echo "All over red rover"
+
+Assuming that RF24Mesh is in the home directory, it will call the race control program.
+
+
+
+
+TODO - Allow for more than 2 cars
