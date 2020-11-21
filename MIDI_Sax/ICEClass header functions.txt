@@ -1,0 +1,17 @@
+Doppler ICEClass functions
+
+void initSPI()
+
+uint16_t sendSPI16(uint16_t  data)
+
+uint16_t sendSPI(uint8_t  adr , uint8_t  txdata)
+
+void iceClock()
+
+void reset_inout()
+
+bool upload()
+
+bool upload(const unsigned char * bitstream , const unsigned int bitstream_size)
+
+int uploadBitBang()
